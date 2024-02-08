@@ -3,6 +3,10 @@ This repository contains the code for a documentation website focusing on JavaSc
 
 # Table of Contents
   - Introduction
+  - Technologies Used
+  - How to Use
+  - Project Output
+  - Website Link
 
 # Introduction
 JavaScript is a cross-platform, object-oriented scripting language known for its lightweight nature and versatility. It can be used within a host environment, such as a web browser, to interact with the elements of its environment programmatically.
